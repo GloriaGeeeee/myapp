@@ -1,0 +1,2 @@
+wire.begin;
+int position;
